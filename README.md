@@ -1,3 +1,4 @@
+## 2048 Game
 ### Introduction
 Welcome to the 2048 game implemented in Python! This simple console-based game allows you to play the classic 2048 game by shifting tiles in four directions – up, down, left, and right. The game continues until the player decides to quit.
 
