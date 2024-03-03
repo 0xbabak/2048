@@ -20,7 +20,7 @@ NumPy library (install using pip install numpy)
 Clone the repository to your local machine.
 Navigate to the directory containing the script.
 Run the script using a Python interpreter:
-''' python 2048_game.py '''
+``` python 2048_game.py ```
 
 ### Notes
 Make sure you have the NumPy library installed (pip install numpy) before running the script.
