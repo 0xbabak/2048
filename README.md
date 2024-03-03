@@ -13,8 +13,7 @@ Enter the size of the game area (e.g., 4 for a 4x4 matrix).
 Use the keys 'W', 'A', 'S', 'D' to shift tiles in the corresponding directions.
 Continue playing until you decide to quit by pressing 'Q'.
 ### Requirements
-Python 3.x
-NumPy library (install using pip install numpy)
+Python 3.x - NumPy library (install using pip install numpy)
 
 ### Instructions for Running
 Clone the repository to your local machine.
